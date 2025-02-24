@@ -52,7 +52,7 @@ function getmemberMarkup(memberObj) {
         <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="${img}"
+                        <img src="./assets/${img}"
                             class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-md-8">
